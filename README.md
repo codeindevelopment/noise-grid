@@ -7,6 +7,21 @@ beautiful grid for portfolio show with effect.
 [Youtube Tutorial](https://www.youtube.com/channel/UCvucIyQwqTfTrMcAwgE1p_A)
 
 
+## Installation
+Run this command in the terminal
+```
+npm install
+```
+
+Compile the code
+```
+npm run build
+```
+
+Compile the code with a local server
+```
+npm run start
+```
 
 ## Misc
 
